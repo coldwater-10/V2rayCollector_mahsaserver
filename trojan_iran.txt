@@ -1,6 +1,3 @@
-trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#@vpnclashfa - 11
-trojan://ypDt8RkT7J@207.211.215.169:43118?security=tls&alpn=http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwf.phooeyunfold.com#@vpnclashfa - 10
-trojan://ypDt8RkT7J@151.115.83.239:43118?security=tls&alpn=http/1.1&headerType=none&fp=random&type=tcp&sni=egajz.phooeyunfold.com#@vpnclashfa - 9
 trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=google.com#@vpnclashfa - 8
 trojan://telegram-id-privatevpns@99.81.163.185:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#@vpnclashfa - 7
 trojan://telegram-id-directvpn@16.170.88.101:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#@vpnclashfa - 6
