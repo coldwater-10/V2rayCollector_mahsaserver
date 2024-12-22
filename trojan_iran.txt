@@ -1,6 +1,5 @@
-trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=google.com#@vpnclashfa - 26
-trojan://telegram-id-privatevpns@99.81.163.185:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#@vpnclashfa - 25
-trojan://telegram-id-directvpn@18.135.189.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 24
+trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=google.com#@vpnclashfa - 25
+trojan://telegram-id-privatevpns@99.81.163.185:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#@vpnclashfa - 24
 trojan://telegram-id-directvpn@16.170.88.101:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#@vpnclashfa - 23
 trojan://gW2L4C6TS3@195.133.52.153:2087?path=%2F%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven&security=tls&alpn=h3,h2,http/1.1&fp=chrome&type=http&sni=ru2.all-connections.ir#@vpnclashfa - 22
 trojan://bpb-trojan@zula.ir:443?path=%2FtrxcjEhlEAQoH0H4xK%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPB-worKER-PAnEl.PagES.Dev#@vpnclashfa - 21
